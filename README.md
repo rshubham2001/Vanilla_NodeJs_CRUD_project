@@ -1,5 +1,5 @@
 # Vanilla_NodeJs_CRUD_project
-THis is NodeJs CRUD Movie databse project.
+This is NodeJs CRUD Movie databse project.
 Main function is in server.js file.
 data folder contains the movies.json file which store all the the data of movies.
 methds folder conatins all the js file of all methods(get, post,put,delete).
